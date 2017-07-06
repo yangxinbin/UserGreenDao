@@ -31,7 +31,7 @@ public class MyRecyclerAdapter extends RecyclerView.Adapter<MyRecyclerAdapter.My
         this. mContext=context;
         this. mDatas=datas;
         this. daoSession=daoSession;
-        inflater=LayoutInflater. from(mContext);
+        inflater=LayoutInflater. from(mContext);//
     }
 
     @Override
