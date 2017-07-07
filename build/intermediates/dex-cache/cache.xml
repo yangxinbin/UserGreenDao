@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/yangxb/AndroidStudioProjects/UserGreenDao/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/home/yangxb/AndroidStudioProjects/UserGreenDao/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.2.0_a9c905e92ff35b2dd2a00215a2260c5bd8ed80ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yangxb/AndroidStudioProjects/UserGreenDao/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="97bbef03b1c881c97849e40cd82bc25763e36856">
+        <dex dex="/home/yangxb/AndroidStudioProjects/UserGreenDao/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4340822d6dbdf91f59dda9ba51546c48d20be51b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yangxb/AndroidStudioProjects/UserGreenDao/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/yangxb/AndroidStudioProjects/UserGreenDao/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_dabb9f760de3fb088354ed9f5924d5c086f3ae45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yangxb/AndroidStudioProjects/UserGreenDao/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/home/yangxb/AndroidStudioProjects/UserGreenDao/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.2.0_2c6063d7c5012c01fcb1e7e9d4d7d5f6bc9b1c82/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yangxb/AndroidStudioProjects/UserGreenDao/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/yangxb/AndroidStudioProjects/UserGreenDao/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ae68c600d3541dd21bf5c932211c4b8d035e07c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yangxb/AndroidStudioProjects/UserGreenDao/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/yangxb/AndroidStudioProjects/UserGreenDao/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_f03fe4ae0461e633eba6998a40257e3ca5e3b5f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yangxb/AndroidStudioProjects/UserGreenDao/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/yangxb/AndroidStudioProjects/UserGreenDao/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_2dd9db34d9d8b2f625183298c991a3f647f1c77b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yangxb/AndroidStudioProjects/UserGreenDao/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/yangxb/AndroidStudioProjects/UserGreenDao/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_87b881af255018ed4ed3ca740e0ceb736b34586f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yangxb/AndroidStudioProjects/UserGreenDao/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea1574c1ede9368c68fef1d32c01ae3b8c4f28f3">
+        <dex dex="/home/yangxb/AndroidStudioProjects/UserGreenDao/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5c8ef3db213f809da1bdc5c4172639ad82678c88/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yangxb/AndroidStudioProjects/UserGreenDao/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/yangxb/AndroidStudioProjects/UserGreenDao/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_d7127f24a3aa4407785c36efc13810327563e760/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yangxb/.gradle/caches/modules-2/files-2.1/de.greenrobot/greendao/2.1.0/9414c1d4578673dac83a23119009624fd695726d/greendao-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9414c1d4578673dac83a23119009624fd695726d">
+        <dex dex="/home/yangxb/AndroidStudioProjects/UserGreenDao/app/build/intermediates/transforms/dex/debug/folders/1000/10/greendao-2.1.0_0d0716510066c86994821050b0cbf93461c79002/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yangxb/AndroidStudioProjects/UserGreenDao/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/yangxb/AndroidStudioProjects/UserGreenDao/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_7017d0e19b722142ad6385b1cf826d8c5e6cbaa9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yangxb/AndroidStudioProjects/UserGreenDao/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/yangxb/AndroidStudioProjects/UserGreenDao/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_acbb03e0d0aebf24997603cbdd6ed9eaa95b5911/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yangxb/AndroidStudioProjects/UserGreenDao/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/yangxb/AndroidStudioProjects/UserGreenDao/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_834e0a70ee314fd325d46d61dc556e2f79ec7ac0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yangxb/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/home/yangxb/AndroidStudioProjects/UserGreenDao/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_9d059ab092f88895604439fb21a42b5364d659e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yangxb/AndroidStudioProjects/UserGreenDao/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/yangxb/AndroidStudioProjects/UserGreenDao/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_6011285b8b9b3bc439d120aed4bed24f90310f57/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yangxb/AndroidStudioProjects/UserGreenDao/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/home/yangxb/AndroidStudioProjects/UserGreenDao/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.2.0_bdb50b9c46c2252fd14de9dc03f54548ddba3e96/classes.dex" />
+    </item>
+
+</items>

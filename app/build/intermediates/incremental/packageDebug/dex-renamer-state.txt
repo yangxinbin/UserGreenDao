@@ -1,0 +1,7 @@
+#Fri Jul 07 09:50:01 HKT 2017
+base.0=/home/yangxb/AndroidStudioProjects/UserGreenDao/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4340822d6dbdf91f59dda9ba51546c48d20be51b
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/yangxb/AndroidStudioProjects/UserGreenDao/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5c8ef3db213f809da1bdc5c4172639ad82678c88/classes.dex
+base.1=/home/yangxb/AndroidStudioProjects/UserGreenDao/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5c8ef3db213f809da1bdc5c4172639ad82678c88
+file.0=/home/yangxb/AndroidStudioProjects/UserGreenDao/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4340822d6dbdf91f59dda9ba51546c48d20be51b/classes.dex

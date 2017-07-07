@@ -42,10 +42,18 @@ public class MyRecyclerAdapter extends RecyclerView.Adapter<MyRecyclerAdapter.My
     }
 
     @Override
-    public void onBindViewHolder(MyViewHolder holder, int position) {
+    public void onBindViewHolder(MyViewHolder holder, final int position) {
         holder.id.setText(mDatas.get(position).getId()+"");
         holder.nu.setText(mDatas.get(position).getUsernumber());
         holder.pass.setText(mDatas.get(position).getUserpassword());
+        holder.delete.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                daoSession.delete(mDatas.get(position));
+                mDatas.remove(position);
+                notifyDataSetChanged();
+            }
+        });
     }
 
     @Override
@@ -68,22 +76,13 @@ public class MyRecyclerAdapter extends RecyclerView.Adapter<MyRecyclerAdapter.My
             change= (Button) itemView.findViewById(R.id.buttonchange);
             delete= (Button) itemView.findViewById(R.id.buttondelete);
             change.setOnClickListener(this);
-            delete.setOnClickListener(this);
         }
 
         @Override
         public void onClick(View v) {
             if(v.getId() == R.id.buttonchange){
                 showAddDialog();
-            }else{
-        deleteUser();
             }
-        }
-
-        private void deleteUser() {
-            Toast.makeText(mContext,"删除成功",Toast.LENGTH_LONG).show();
-            daoSession.delete(mDatas.get(getAdapterPosition()));
-            notifyItemRemoved(getAdapterPosition());
         }
 
         protected void showAddDialog() {

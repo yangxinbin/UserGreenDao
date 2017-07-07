@@ -61,7 +61,7 @@ public void sercherAll(View v){
     public void addUser(View v){
         Toast.makeText(this,"添加成功",Toast.LENGTH_LONG).show();
         insertDb();
-        setUpRecyclerView();
+        queryDb();
     }
     private void init() {
         sercherButton = (Button) findViewById(R.id.sercher);
