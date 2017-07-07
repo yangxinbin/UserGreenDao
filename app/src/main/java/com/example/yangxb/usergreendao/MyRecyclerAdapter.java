@@ -51,7 +51,9 @@ public class MyRecyclerAdapter extends RecyclerView.Adapter<MyRecyclerAdapter.My
             public void onClick(View v) {
                 daoSession.delete(mDatas.get(position));
                 mDatas.remove(position);
-                notifyDataSetChanged();
+               // notifyDataSetChanged();
+                notifyItemRemoved(position);
+                notifyItemRangeChanged(position, getItemCount());
             }
         });
     }

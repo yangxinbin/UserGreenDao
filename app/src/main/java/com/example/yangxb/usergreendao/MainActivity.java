@@ -57,7 +57,7 @@ public void sercherAll(View v){
     Toast.makeText(this,"查询成功",Toast.LENGTH_LONG).show();
     queryDb();
 
-}
+}//
     public void addUser(View v){
         Toast.makeText(this,"添加成功",Toast.LENGTH_LONG).show();
         insertDb();
